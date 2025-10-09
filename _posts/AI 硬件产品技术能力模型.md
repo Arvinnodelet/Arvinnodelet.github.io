@@ -1,3 +1,15 @@
+---
+title: "AI 硬件产品经理的技术能力模型"
+subtitle: "PM"
+layout: post
+author: "Arvin"
+header-style: text
+hidden: true
+tags:
+  - PM
+  - AI 硬件
+---
+
 ## AI硬件产品经理的技术能力模型
 
 产品经理这个岗位发展至今，从最早的宝洁以市场/品牌为导向的类型发展到互联网，再到智能硬件或者叫 AI 硬件产品经理。工作职责、要求的知识技能发生一些演变。
