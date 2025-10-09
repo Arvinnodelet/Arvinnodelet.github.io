@@ -1,13 +1,14 @@
 ---
-title: "AI 硬件产品经理的技术能力模型"
-subtitle: "PM"
-layout: post
-author: "Arvin"
-header-style: text
-hidden: true
+layout:     post
+title:      "AI硬件产品经理的技术能力模型"
+subtitle:   ""
+date:       2025-10-9 12:00:00
+author:     "Arvin"
+header-img: "img/post-bg-alibaba.jpg"
 tags:
-  - PM
-  - AI 硬件
+    - PM
+    - 产品
+    - AI 硬件
 ---
 
 ## AI硬件产品经理的技术能力模型
